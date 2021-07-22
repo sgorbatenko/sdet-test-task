@@ -1,5 +1,7 @@
 # sdet-test-task
 
+To run service use `gradle run`
+
 In this test task you should:
 
 1. Analyze this test service
