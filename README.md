@@ -1,4 +1,7 @@
 # sdet-test-task
+Installation requirements:
+- JDK starting 11 
+- Gradle starting 5
 
 To run service use `gradle run`
 
@@ -11,3 +14,4 @@ In this test task you should:
 
 As a result you should provide link to Github repository that contains 
 this service and tests including docker-compose file to run service with tests
+
