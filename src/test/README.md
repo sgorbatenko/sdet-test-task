@@ -2,6 +2,7 @@
 Installation requirements:
 - JDK starting 11 
 - Gradle starting 5
+- Docker version 20.x
 
 ## Test scenarios
 
