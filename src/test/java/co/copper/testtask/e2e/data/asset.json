@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "currency": "EUR",
+  "year": 2022,
+  "value": 10000000,
+  "type": "asset"
+}

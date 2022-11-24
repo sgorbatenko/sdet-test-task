@@ -15,3 +15,4 @@ In this test task you should:
 As a result you should provide link to Github repository that contains 
 this service and tests including docker-compose file to run service with tests
 
+[E2E Test documentation](src/test/README.md)
