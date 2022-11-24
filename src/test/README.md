@@ -22,3 +22,4 @@ To run tests in container against the app run in container use docker compose `d
 2. Add authentication mechanism 
 3. Add unit and integration tests
 4. Fix bugs
+5. Add CI/CD pipelines 
