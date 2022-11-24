@@ -3,8 +3,9 @@ Installation requirements:
 - JDK starting 11 
 - Gradle starting 5
 
-## Test scenarios 
-![](.\test-scenarios.png)
+## Test scenarios
+
+![](test-scenarios.png)
 
 ## Instructions
 To run tests from a terminal use `./gradlew cleanTest test`
